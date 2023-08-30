@@ -1,0 +1,11 @@
+@charset "utf-8";
+
+img {
+    max-width: 100%;
+}
+
+
+/* メイン開始 */
+.top {
+    display: flex;
+}
