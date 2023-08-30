@@ -9,3 +9,7 @@ img {
 .top {
     display: flex;
 }
+
+#picture {
+    width: 50%;
+}
