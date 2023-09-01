@@ -1,15 +1,8 @@
-@charset "utf-8";
-
 img {
     max-width: 100%;
 }
 
-
-/* メイン開始 */
-.top {
+.flex {
     display: flex;
 }
 
-#picture {
-    width: 50%;
-}
