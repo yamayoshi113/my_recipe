@@ -1,8 +1,27 @@
+/* 全体css */
+@chrset "UTF-8";
+
 img {
     max-width: 100%;
 }
 
-.flex {
-    display: flex;
+ul {
+    list-style: none;
 }
 
+a {
+    color: #2b2a27;
+  }
+
+  body {
+    color: #2b2a27;
+    font-family: "Helvetica Neue", "Arial", "Hiragino Sans", "Meiryo", sans-serif;
+  }
+
+/* 全体css終了 */
+
+/* メイン上部 */
+.flex {
+    display: flex;
+    margin-bottom: 60px;
+}
