@@ -25,3 +25,8 @@ a {
     display: flex;
     margin-bottom: 60px;
 }
+
+.flex .image {
+    width: 50%;
+}
+
