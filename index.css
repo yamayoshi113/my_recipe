@@ -40,5 +40,14 @@ a {
     height: 700px;
     object-fit: cover;
     vertical-align: bottom;
-  }s
+  }
 /* メイン上部終了 */
+
+/* メイン下部開始 */
+.sns {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;
+}
+
+/* メイン下部終了 */
